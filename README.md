@@ -1,16 +1,18 @@
-### Hi there 👋
+- 🎓 Pursuing BSc in Computer Science @ University of Waterloo
+- 💻 First few codes in my career handles 10k funds tranfer, now my codes have managed 2400k+ staking funds robustly
+- 📖 My bible is Ray Dalio's Principles
 
-<!--
-**mingyuanlee/mingyuanlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🖥️ Open Source Projects
 
-Here are some ideas to get you started:
+|Title | Intro | Technologies|
+|--|--|--|
+| [Ether.fi Sync Client](https://github.com/GadzeFinance/etherfi-sync-clientv2) | Go executable to streamline Ethereum validator key processing | Go, GraphQL, ECDH |
+| [Ether.fi Desktop App](https://github.com/GadzeFinance/etherfi-desktop) | Desktop app to support validator key encryption & exit message generation | TypeScript, Electron |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖥️ Personal Projects
+
+|Title | Technologies|
+|--|--|
+| [Ragdoll Limit Order Book](https://github.com/mingyuanlee/ragdoll-lob-c) | C++, Trading, LLRB Tree |
+| [Super Reader](https://github.com/mingyuanlee/super-reader) | Llama Index, RAG, Open AI, Cohere |
+| [BLS Signature Verification Tool](https://github.com/mingyuanlee/bls-verification-tool) | BLS Signature, SSZ, BeaconChain Specs |
