@@ -11,8 +11,9 @@
 
 ### 🖥️ Personal Projects
 
-|Title | Technologies|
-|--|--|
-| [Ragdoll Limit Order Book](https://github.com/mingyuanlee/ragdoll-lob-c) | C++, Trading, LLRB Tree |
-| [Super Reader](https://github.com/mingyuanlee/super-reader) | Llama Index, RAG, Open AI, Cohere |
-| [BLS Signature Verification Tool](https://github.com/mingyuanlee/bls-verification-tool) | BLS Signature, SSZ, BeaconChain Specs |
+|Title | Description | Technologies|
+|--|--|--|
+| [Ragdoll Limit Order Book](https://github.com/mingyuanlee/ragdoll-lob-c) | LOB sandbox for trading |C++, Trading, LLRB Tree |
+| [Goal Forest](https://github.com/mingyuanlee/goal-forest) | Desktop app to boost time management | TypeScript, Electron App |
+| [Super Reader](https://github.com/mingyuanlee/super-reader) | AI assistant for online researches |Llama Index, RAG, Open AI, Cohere |
+| [BLS Signature Verification Tool](https://github.com/mingyuanlee/bls-verification-tool) | BLS sig plugin for Ethereum | BLS Signature, SSZ, BeaconChain Specs |
