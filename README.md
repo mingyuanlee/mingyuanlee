@@ -1,5 +1,5 @@
 - 🎓 Pursuing BSc in Computer Science @ University of Waterloo
-- 💻 First few codes in my career handles 10k funds tranfer, now my codes have managed 4B USD staking funds robustly
+- 💻 First few codes in my career handles 10k funds tranfer, now my code has managed 4B USD staking funds robustly
 - 📖 My bible is Ray Dalio's Principles
 
 ### 🖥️ Open Source Projects
